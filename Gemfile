@@ -37,4 +37,4 @@ gem "haml-rails", "~> 1.0"
 gem 'bootstrap', '~> 4.0.0.beta2.1'
 gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.3'
-gem 'paperclip', '~> 5.1'
+gem "paperclip", "~> 5.0.0"
